@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="1.0">
+  <folder_logic>PREFIX</folder_logic>
+  <starting_folder>/src/</starting_folder>
+</abapGit>
