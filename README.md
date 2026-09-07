@@ -1,6 +1,6 @@
 # SFLIGHT Dynpro to RAP
 
-Projet pédagogique de migration SAP :
+Projet pédagogique de migration SAP : initié le 04/09/2026
 
 Classic ABAP / Dynpro
 → Refactoring
