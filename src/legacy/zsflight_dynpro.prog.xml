@@ -9,6 +9,7 @@
         <DBAPL>S</DBAPL>
         <SUBC>1</SUBC>
         <RSTAT>P</RSTAT>
+      <UCCHECK>X</UCCHECK>
       </PROGDIR>
       <TPOOL>
         <item>
