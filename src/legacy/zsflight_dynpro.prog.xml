@@ -10,6 +10,7 @@
         <SUBC>1</SUBC>
         <RSTAT>P</RSTAT>
       <UCCHECK>X</UCCHECK>
+      <FIXPT>X</FIXPT>
       </PROGDIR>
       <TPOOL>
         <item>
