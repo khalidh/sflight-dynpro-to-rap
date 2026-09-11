@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0">
+  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+    <asx:values>
+      <VSEOCLASS>
+        <CLSNAME>ZCL_DYNPRO_HELLO_WORLD</CLSNAME>
+        <LANGU>E</LANGU>
+        <DESCRIPT>Dynpro Hello World with abap2UI5</DESCRIPT>
+        <STATE>1</STATE>
+        <CLSCCINCL>X</CLSCCINCL>
+      </VSEOCLASS>
+    </asx:values>
+  </asx:abap>
+</abapGit>
